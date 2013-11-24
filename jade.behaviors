@@ -1,0 +1,6 @@
+{:+ {:app [(:lt.objs.plugins/load-js "mode.js" true)
+           (:lt.objs.files/file-types [{:exts [:jade],
+                                        :mime "text/x-jade", ;; the mime type of your new mode
+                                        :name "Jade",
+                                        :tags [:editor.jade]}])
+           ]}}

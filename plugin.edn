@@ -1,0 +1,5 @@
+{:name "Jade mode"
+ :author "Dmitry Petrov"
+ :source "https://github.com/can3p/LightTable-Jade"
+ :desc "Jade mode for Light Table editor"
+ :behaviors "jade.behaviors"}
